@@ -4,4 +4,4 @@
 
 ## Practice, practice, practice!!
 * [Advent of Code](https://adventofcode.com/): Great practice to help you continue to learn python.  Challenges get more and more 
-difficult, and you can compare your (horribly inelegant) solution with others in the community.
+difficult (and aggravating).  You can compare your (horribly inelegant) solution with others in the community, and learn how experienced programmers were able to tackle the problem.
