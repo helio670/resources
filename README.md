@@ -11,3 +11,6 @@ difficult (and aggravating).  You can compare your (horribly inelegant) solution
 
 ## Python 2 or 3??
 http://python-future.org/
+
+## Misc.
+[Google Colab](https://colab.research.google.com/) allows you to run python code without having it locally installed, has GPU capabilities.  
