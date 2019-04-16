@@ -3,8 +3,9 @@
 Below are suplementary resources provided in addition to the lecture materials within the courses.
 
 
-### Coding Transitioning
+### Coding Transitioning and Help
 * [Python Switcher's Guide](http://www.astrobetter.com/wiki/Python+Switchers+Guide):  Help to migrate code from IDL to python.
+* [Stack Overflow](http://https://stackoverflow.com/): A useful resource to search for answers (and ask questions if you can't find the answer). Solutions and responses submitted by users are fairly well moderated.  
 
 ### Learning Resources
 * Jake Van der Plas's excellent learning resource [Python Data Science Handbook](http://jakevdp.github.io/PythonDataScienceHandbook/) (also available in print version)
