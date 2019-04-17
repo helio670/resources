@@ -20,8 +20,14 @@ Below are suplementary resources provided in addition to the lecture materials w
 * [Advent of Code](https://adventofcode.com/): Great practice to help you continue to learn python.  Challenges get more and more 
 difficult (and aggravating).  You can compare your (horribly inelegant) solution with others in the community, and learn how experienced programmers were able to tackle the problem.
 
+### GIT and Version Control:
+* Making code citable:  https://guides.github.com/activities/citable-code/ describes how to use Zenodo to generate a DOI for your code so that people who use your code can cite it. 
+* [Git Community Book](http://book.git-scm.com/)
+* [Pro Git](http://progit.org/book/)
+* [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
+* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
 ### Miscellaneous
-* Making code citable:  https://guides.github.com/activities/citable-code/ describes how to use Zenodo to generate a DOI for your code so that people who use your code can cite it.  
 * Cloud-Based Jupyter Notebook Services:
   * [Google Colab](https://colab.research.google.com/) allows you to run python code without having it locally installed, has GPU capabilities.
   * [Microsoft Azure](http://notebooks.azure.com)
