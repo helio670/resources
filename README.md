@@ -21,7 +21,7 @@ Below are suplementary resources provided in addition to the lecture materials w
 difficult (and aggravating).  You can compare your (horribly inelegant) solution with others in the community, and learn how experienced programmers were able to tackle the problem.
 
 ### GIT and Version Control:
-* Making code citable:  https://guides.github.com/activities/citable-code/ describes how to use Zenodo to generate a DOI for your code so that people who use your code can cite it. 
+* Making code citable:  https://guides.github.com/activities/citable-code/ describes how to use [Zenodo](https://zenodo.org/) to generate a DOI for your code so that people who use your code can cite it. 
 * [Git Community Book](http://book.git-scm.com/)
 * [Pro Git](http://progit.org/book/)
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
