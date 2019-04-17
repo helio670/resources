@@ -15,6 +15,7 @@ Below are suplementary resources provided in addition to the lecture materials w
 * PyCon Conference Videos:
   * [2018](http://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ)
   * [2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg)
+* Galleries are super duper useful to help figure out how people did things. Rather than writing something from scratch, you can find a good example of what you're trying to do and start with that code.  Good examples are the [Matplotlib gallery] (https://matplotlib.org/gallery.html) of plotting examples, and the [Heliopython gallery] (http://heliopython.org/gallery/generated/gallery/index.html) of recipes for heliophysics data analysis supported by [heliopython.org](http://heliopython.org)
 
 ### Practice, practice, practice!!
 * [Advent of Code](https://adventofcode.com/): Great practice to help you continue to learn python.  Challenges get more and more 
