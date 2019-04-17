@@ -21,6 +21,7 @@ Below are suplementary resources provided in addition to the lecture materials w
 difficult (and aggravating).  You can compare your (horribly inelegant) solution with others in the community, and learn how experienced programmers were able to tackle the problem.
 
 ### Miscellaneous
+* Making code citable:  https://guides.github.com/activities/citable-code/ describes how to use Zenodo to generate a DOI for your code so that people who use your code can cite it.  
 * Cloud-Based Jupyter Notebook Services:
   * [Google Colab](https://colab.research.google.com/) allows you to run python code without having it locally installed, has GPU capabilities.
   * [Microsoft Azure](http://notebooks.azure.com)
