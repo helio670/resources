@@ -18,6 +18,8 @@ Below are suplementary resources provided in addition to the lecture materials w
   * [2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg)
 * Galleries are super duper useful to help figure out how people did things. Rather than writing something from scratch, you can find a good example of what you're trying to do and start with that code.  Good examples are the [Matplotlib gallery](https://matplotlib.org/gallery.html) of plotting examples, and the [Heliopython gallery](http://heliopython.org/gallery/generated/gallery/index.html) of recipes for heliophysics data analysis supported by [heliopython.org](http://heliopython.org)
 
+Focusing on interactive plotting in web browsers, PyViz provides:
+
 ### Practice, practice, practice!!
 * [Project Euler](https://projecteuler.net/): The motivation for starting Project Euler is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.  A great way to challenge yourself and have honing your programming skills!
 * [Advent of Code](https://adventofcode.com/): Great practice to help you continue to learn python.  Challenges get more and more 
@@ -29,6 +31,9 @@ difficult (and aggravating).  You can compare your (horribly inelegant) solution
 * [Pro Git](http://progit.org/book/)
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+### For Advanced Users
+* [Pyviz](http://pyviz.org/) is a coordinated effort to make data visualization in Python easier to use, easier to learn, and more powerful.
 
 ### Miscellaneous
 * Cloud-Based Jupyter Notebook Services:
