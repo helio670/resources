@@ -19,6 +19,7 @@ Below are suplementary resources provided in addition to the lecture materials w
 * Galleries are super duper useful to help figure out how people did things. Rather than writing something from scratch, you can find a good example of what you're trying to do and start with that code.  Good examples are the [Matplotlib gallery](https://matplotlib.org/gallery.html) of plotting examples, and the [Heliopython gallery](http://heliopython.org/gallery/generated/gallery/index.html) of recipes for heliophysics data analysis supported by [heliopython.org](http://heliopython.org)
 
 ### Practice, practice, practice!!
+* [Project Euler](https://projecteuler.net/): The motivation for starting Project Euler is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.  A great way to challenge yourself and have honing your programming skills!
 * [Advent of Code](https://adventofcode.com/): Great practice to help you continue to learn python.  Challenges get more and more 
 difficult (and aggravating).  You can compare your (horribly inelegant) solution with others in the community, and learn how experienced programmers were able to tackle the problem.
 
